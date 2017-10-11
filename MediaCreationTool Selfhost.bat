@@ -1,0 +1,1 @@
+MediaCreationTool.exe /selfhost
