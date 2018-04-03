@@ -6,14 +6,15 @@ HowTo:
 2) Put file products.cab in the same folder where the file MediaCreationTool.exe
 3) And run MediaCreationTool.exe /selfhost (or via ps: .\MediaCreationTool.exe /selfhost)
 4) Save boot ISO..
+5) You can tweak the parameters as needed: MediaCreationTool.exe /Selfhost /Eula Accept /Retail /MediaLangCode en-us /MediaArch x86 /MediaEdition Enterprise
+6) Done.
 
 
+Official Media Creation Tool
+=============================
+* https://go.microsoft.com/fwlink/?LinkId=691209
 
-Official Media Creation Tool:
-https://go.microsoft.com/fwlink/?LinkId=691209
+* https://download.microsoft.com/download/0/B/2/0B2BC253-367A-48C3-A25D-402F123676D3/MediaCreationTool.exe
 
 
-https://download.microsoft.com/download/0/B/2/0B2BC253-367A-48C3-A25D-402F123676D3/MediaCreationTool.exe
-
-
-https://download.microsoft.com/download/3/8/9/38926395-6FB1-4487-83DF-4241D2EA79F7/products_20171005.cab
+* https://download.microsoft.com/download/3/8/9/38926395-6FB1-4487-83DF-4241D2EA79F7/products_20171005.cab
