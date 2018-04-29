@@ -13,7 +13,10 @@ Official Media Creation Tool:
 https://go.microsoft.com/fwlink/?LinkId=691209
 
 
-https://download.microsoft.com/download/0/B/2/0B2BC253-367A-48C3-A25D-402F123676D3/MediaCreationTool.exe
+https://download.microsoft.com/download/A/B/E/ABEE70FE-7DE8-472A-8893-5F69947DE0B1/MediaCreationTool.exe
 
 
 https://download.microsoft.com/download/3/8/9/38926395-6FB1-4487-83DF-4241D2EA79F7/products_20171005.cab
+
+
+https://download.microsoft.com/download/F/1/2/F12AE2F0-B1CC-4A83-9529-C3D43F171C62/Products_RS4_04_20_2018.xml
