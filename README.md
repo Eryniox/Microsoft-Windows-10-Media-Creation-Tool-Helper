@@ -13,3 +13,9 @@ The project is original created under the GNU General Public License v3.0 2017 b
 The batch-method (as shown in the screenshot) is now optional.
 
 ![MCTS](https://raw.githubusercontent.com/CHEF-KOCH/Microsoft-Windows-10-Media-Creation-Tool-Helper/master/Screenshot.png)
+
+
+```bash
+//Replace 1809 with the version your want (official versions which needs the batch file)
+https://software-download.microsoft.com/download/pr/MediaCreationTool1809.exe
+```
