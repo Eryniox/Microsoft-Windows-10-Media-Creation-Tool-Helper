@@ -18,4 +18,7 @@ The batch-method (as shown in the screenshot) is now optional.
 ```bash
 //Replace 1809 with the version your want (official versions which needs the batch file)
 https://software-download.microsoft.com/download/pr/MediaCreationTool1809.exe
+
+Mirror:
+https://download.microsoft.com/download/9/4/E/94E04254-741B-4316-B1DF-8CAEDF2DF16C/Windows10Upgrade9252.exe
 ```
