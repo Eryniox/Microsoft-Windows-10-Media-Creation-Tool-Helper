@@ -35,8 +35,29 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 ### Official Media Creation Tool
 
 * https://go.microsoft.com/fwlink/?LinkId=691209
-* https://software-download.microsoft.com/download/pr/MediaCreationTool1803.exe
-* https://download.microsoft.com/download/C/8/E/C8E7013A-F5D5-4F9F-A94E-3B4F333F2930/Windows10Upgrade9252.exe
-* https://download.microsoft.com/download/3/8/9/38926395-6FB1-4487-83DF-4241D2EA79F7/products_20171005.cab
-* https://download.microsoft.com/download/F/1/2/F12AE2F0-B1CC-4A83-9529-C3D43F171C62/Products_RS4_04_20_2018.xml
-* https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-60443569617C/products_20190314.cab
+
+```
+1809
+http://download.microsoft.com/download/B/6/E/B6E8893F-ECE0-42E5-A9ED-69A13DD0BA95/products_20181105.cab
+http://software-download.microsoft.com/download/pr/MediaCreationTool1809.exe
+
+1803
+http://download.microsoft.com/download/5/C/B/5CB83D2A-2D7E-4129-9AFE-353F8459AA8B/products_20180705.cab
+http://software-download.microsoft.com/download/pr/MediaCreationTool1803.exe
+goto process
+
+1709
+http://download.microsoft.com/download/3/2/3/323D0F94-95D2-47DE-BB83-1D4AC3331190/products_20180105.cab
+http://download.microsoft.com/download/A/B/E/ABEE70FE-7DE8-472A-8893-5F69947DE0B1/MediaCreationTool.exe
+
+
+1703
+http://download.microsoft.com/download/9/5/4/954415FD-D9D7-4E1F-8161-41B3A4E03D5E/products_20170317.cab
+http://download.microsoft.com/download/1/C/4/1C41BC6B-F8AB-403B-B04E-C96ED6047488/MediaCreationTool.exe
+http://download.microsoft.com/download/C/F/9/CF9862F9-3D22-4811-99E7-68CE3327DAE6/MediaCreationTool.exe
+
+
+1607
+http://wscont.apps.microsoft.com/winstore/OSUpgradeNotification/MediaCreationTool/prod/Products_20170116.cab
+http://download.microsoft.com/download/C/F/9/CF9862F9-3D22-4811-99E7-68CE3327DAE6/MediaCreationTool.exe
+```
