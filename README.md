@@ -17,7 +17,7 @@ Inofficial batch helper to get and install latest Windows .esd/.iso. The project
 
 The batch-method (as shown in the screenshot) is now optional.
 
-![MCTS](https://raw.githubusercontent.com/CHEF-KOCH/Microsoft-Windows-10-Media-Creation-Tool-Helper/master/Screenshot.png)
+![MCTS](https://raw.githubusercontent.com/CHEF-KOCH/Microsoft-Windows-10-Media-Creation-Tool-Helper/master/.github/Screenshot.png)
 
 
 ```bash
