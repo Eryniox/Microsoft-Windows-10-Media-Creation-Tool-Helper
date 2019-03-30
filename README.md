@@ -32,9 +32,16 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 ```
 
 
-### Official Media Creation Tool
+### Official Media Creation Tool (direct link)
 
 * https://go.microsoft.com/fwlink/?LinkId=691209
+
+### Unofficial Media Creation Tool Batch 
+
+* [Universal MediaCreationTool.bat wrapper for all Windows 10 Redstone versions: 1607,1703,1709,1803,1809 with business (Enterprise) edition support](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
+
+
+### Archive
 
 ```
 1809
