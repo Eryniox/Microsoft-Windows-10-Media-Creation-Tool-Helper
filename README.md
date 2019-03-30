@@ -7,13 +7,12 @@
 Inofficial batch helper to get and install latest Windows .esd/.iso. The project is original created under the GNU General Public License v3.0 2017 by CHEF-KOCH.
 
 
-### HowTo
-* Rename file original products_20xxxxx.cab to products.cab.
-* Put file products.cab in the same folder where the file MediaCreationTool.exe
-* And run MediaCreationTool.exe /selfhost (or via ps: .\MediaCreationTool.exe /selfhost)
+### How-To
+* Rename file original `products_20xxxxx.cab to products.cab`.
+* Put file products.cab in the same folder where the file `MediaCreationTool.exe`
+* And run `MediaCreationTool.exe /selfhost` (or via PowerShell: `.\MediaCreationTool.exe /selfhost`)
 * Save boot ISO..
-* You can tweak the parameters as needed: MediaCreationTool.exe /Selfhost /Eula Accept /Retail /MediaLangCode en-us /MediaArch x86 /MediaEdition Enterprise
-* Done.
+* You can tweak the parameters as needed: `MediaCreationTool.exe /Selfhost /Eula Accept /Retail /MediaLangCode en-us /MediaArch x86 /MediaEdition Enterprise`
 
 The batch-method (as shown in the screenshot) is now optional.
 
@@ -21,13 +20,16 @@ The batch-method (as shown in the screenshot) is now optional.
 
 
 ```bash
+//latest Versions
 //Replace 1809 with the version your want (official versions which needs the batch file)
 https://software-download.microsoft.com/download/pr/MediaCreationTool1809.exe
 
 Mirror:
 https://download.microsoft.com/download/9/4/E/94E04254-741B-4316-B1DF-8CAEDF2DF16C/Windows10Upgrade9252.exe
-```
 
+Cab:
+https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-60443569617C/products_20190314.cab
+```
 
 
 ### Official Media Creation Tool
@@ -37,3 +39,4 @@ https://download.microsoft.com/download/9/4/E/94E04254-741B-4316-B1DF-8CAEDF2DF1
 * https://download.microsoft.com/download/C/8/E/C8E7013A-F5D5-4F9F-A94E-3B4F333F2930/Windows10Upgrade9252.exe
 * https://download.microsoft.com/download/3/8/9/38926395-6FB1-4487-83DF-4241D2EA79F7/products_20171005.cab
 * https://download.microsoft.com/download/F/1/2/F12AE2F0-B1CC-4A83-9529-C3D43F171C62/Products_RS4_04_20_2018.xml
+* https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-60443569617C/products_20190314.cab
