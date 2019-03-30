@@ -32,6 +32,10 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 ```
 
 
+### Latest official Windows 10 ESD (direct links + info)
+
+* [Windows 10 1809 - 17763.379 October Update [Updated March 2019](https://gist.github.com/CHEF-KOCH/1c1df9181833005d8ab3cf0d9279d87b)
+
 ### Official Media Creation Tool (direct link)
 
 * https://go.microsoft.com/fwlink/?LinkId=691209
