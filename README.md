@@ -21,8 +21,8 @@ The batch-method (as shown in the screenshot) is now optional.
 
 ```bash
 //latest Versions
-//Replace 1809 with the version your want (official versions which needs the batch file)
-https://software-download.microsoft.com/download/pr/MediaCreationTool1809.exe
+//Replace 1903 with the version your want (official versions which needs the batch file)
+https://software-download.microsoft.com/download/pr/MediaCreationTool1903.exe
 
 Mirror:
 https://download.microsoft.com/download/9/4/E/94E04254-741B-4316-B1DF-8CAEDF2DF16C/Windows10Upgrade9252.exe
@@ -34,7 +34,7 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 
 ### Latest official Windows 10 ESD (direct links + info)
 
-* [Windows 10 1809 - 17763.379 October Update [Updated March 2019](https://gist.github.com/CHEF-KOCH/1c1df9181833005d8ab3cf0d9279d87b)
+* [Windows 10 1903 - 18362.30 May 2019 Update [Updated May v2 2019](https://gist.github.com/CHEF-KOCH/f9ee29bc69660c5d189891239701593d)
 
 ### Official Media Creation Tool (direct link)
 
@@ -43,6 +43,10 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 ### Unofficial Media Creation Tool Batch 
 
 * [Universal MediaCreationTool.bat wrapper for all Windows 10 Redstone versions: 1607,1703,1709,1803,1809 with business (Enterprise) edition support](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15)
+
+### Extracting the products.xml
+
+You will find the products.xml under `C:\$Windows.~WS\Sources`. The products.cab file is also avbl. via download (which contains the products.xml (with all official download links).
 
 
 ### Archive MCT + products.cab
@@ -64,12 +68,10 @@ goto process
 http://download.microsoft.com/download/3/2/3/323D0F94-95D2-47DE-BB83-1D4AC3331190/products_20180105.cab
 http://download.microsoft.com/download/A/B/E/ABEE70FE-7DE8-472A-8893-5F69947DE0B1/MediaCreationTool.exe
 
-
 1703
 http://download.microsoft.com/download/9/5/4/954415FD-D9D7-4E1F-8161-41B3A4E03D5E/products_20170317.cab
 http://download.microsoft.com/download/1/C/4/1C41BC6B-F8AB-403B-B04E-C96ED6047488/MediaCreationTool.exe
 http://download.microsoft.com/download/C/F/9/CF9862F9-3D22-4811-99E7-68CE3327DAE6/MediaCreationTool.exe
-
 
 1607
 http://wscont.apps.microsoft.com/winstore/OSUpgradeNotification/MediaCreationTool/prod/Products_20170116.cab
