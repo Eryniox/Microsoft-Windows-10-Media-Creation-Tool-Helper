@@ -7,7 +7,7 @@
 Inofficial batch helper to get and install latest Windows .esd/.iso. The project is original created under the GNU General Public License v3.0, 2017 - present by CHEF-KOCH.
 
 
-### How-To
+### HowTo
 * Rename file original `products_20xxxxx.cab to products.cab`.
 * Put file products.cab in the same folder where the file `MediaCreationTool.exe`
 * And run `MediaCreationTool.exe /selfhost` (or via PowerShell: `.\MediaCreationTool.exe /selfhost`)
@@ -34,7 +34,7 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 
 ### Latest official Windows 10 ESD (direct links + info)
 
-* [Windows 10 1909 Final (Build 18363) [Updated Oct.v2 2019](https://gist.github.com/CHEF-KOCH/d8fac067aac466ce47cbdbcb6c0a7c10)
+* Windows 10 1909 Final (Build 18363) [Updated Oct.v2 2019](https://gist.github.com/CHEF-KOCH/d8fac067aac466ce47cbdbcb6c0a7c10)
 
 ### Official Media Creation Tool (direct link)
 
@@ -52,6 +52,10 @@ You will find the products.xml under `C:\$Windows.~WS\Sources`. The products.cab
 ### Archive MCT + products.cab
 
 ```
+1909:
+1909 is an update over 1903. The Media Creation Tool is the same:
+https://download.microsoft.com/download/9/8/8/9886d5ac-8d7c-4570-a3af-e887ce89cf65/MediaCreationTool1903.exe
+
 1903
 https://software-download.microsoft.com/download/pr/MediaCreationTool1903.exe
 https://download.microsoft.com/download/9/8/8/9886d5ac-8d7c-4570-a3af-e887ce89cf65/MediaCreationTool1903.exe
