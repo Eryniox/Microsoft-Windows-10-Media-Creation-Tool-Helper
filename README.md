@@ -4,7 +4,7 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
-Inofficial batch helper to get and install latest Windows .esd/.iso. The project is original created under the GNU General Public License v3.0 2017 by CHEF-KOCH.
+Inofficial batch helper to get and install latest Windows .esd/.iso. The project is original created under the GNU General Public License v3.0, 2017 - present by CHEF-KOCH.
 
 
 ### How-To
@@ -34,7 +34,7 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 
 ### Latest official Windows 10 ESD (direct links + info)
 
-* [Windows 10 1903 - 18362.30 May 2019 Update [Updated May v2 2019](https://gist.github.com/CHEF-KOCH/f9ee29bc69660c5d189891239701593d)
+* [Windows 10 1909 Final (Build 18363) [Updated Oct.v2 2019](https://gist.github.com/CHEF-KOCH/d8fac067aac466ce47cbdbcb6c0a7c10)
 
 ### Official Media Creation Tool (direct link)
 
