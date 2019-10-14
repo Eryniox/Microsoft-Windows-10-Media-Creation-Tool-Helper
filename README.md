@@ -34,7 +34,7 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 
 ### Latest official Windows 10 ESD (direct links + info)
 
-* Windows 10 1909 Final (Build 18363) [Updated Oct.v2 2019](https://gist.github.com/CHEF-KOCH/d8fac067aac466ce47cbdbcb6c0a7c10)
+* Windows 10 1909 Final (Build 18363) [Updated Oct.v2 2019](https://gist.github.com/CHEF-KOCH/d8fac067aac466ce47cbdbcb6c0a7c10) & [ESD decrypter (wimlib)](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-52.7z)
 
 ### Official Media Creation Tool (direct link)
 
