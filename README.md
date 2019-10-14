@@ -54,6 +54,7 @@ You will find the products.xml under `C:\$Windows.~WS\Sources`. The products.cab
 ```
 1903
 https://software-download.microsoft.com/download/pr/MediaCreationTool1903.exe
+https://download.microsoft.com/download/9/8/8/9886d5ac-8d7c-4570-a3af-e887ce89cf65/MediaCreationTool1903.exe
 https://download.microsoft.com/download/5/8/4/584230EE-70C4-46D6-B992-FDAE62820615/products_20190502.cab
 
 1809
