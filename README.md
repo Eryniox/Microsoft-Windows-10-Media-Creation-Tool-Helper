@@ -53,17 +53,19 @@ You will find the products.xml under `C:\$Windows.~WS\Sources`. The products.cab
 
 ```
 1909:
-1909 is an update over 1903. The Media Creation Tool is the same:
-https://download.microsoft.com/download/9/8/8/9886d5ac-8d7c-4570-a3af-e887ce89cf65/MediaCreationTool1903.exe
+https://go.microsoft.com/fwlink/?LinkId=691209 (go.microsoft.com/MediaCreationTool1909.exe)
+http://download.microsoft.com/download/4/c/7/4c7a5beb-ca48-4fdd-a798-e48ccf022b79/products.cab
 
 1903
 https://software-download.microsoft.com/download/pr/MediaCreationTool1903.exe
 https://download.microsoft.com/download/9/8/8/9886d5ac-8d7c-4570-a3af-e887ce89cf65/MediaCreationTool1903.exe
 https://download.microsoft.com/download/5/8/4/584230EE-70C4-46D6-B992-FDAE62820615/products_20190502.cab
+http://download.microsoft.com/download/4/e/4/4e491657-24c8-4b7d-a8c2-b7e4d28670db/products_20190912.cab (new)
 
 1809
 http://software-download.microsoft.com/download/pr/MediaCreationTool1809.exe
 http://download.microsoft.com/download/B/6/E/B6E8893F-ECE0-42E5-A9ED-69A13DD0BA95/products_20181105.cab
+http://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-60443569617C/products_20190314.cab (new)
 
 1803
 http://software-download.microsoft.com/download/pr/MediaCreationTool1803.exe
