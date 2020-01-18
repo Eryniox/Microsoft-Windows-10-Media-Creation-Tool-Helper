@@ -20,7 +20,7 @@ The batch-method (as shown in the screenshot) is now optional.
 
 
 ```bash
-//latest Versions
+//Latest Versions
 //Replace 1903 with the version your want (official versions which needs the batch file)
 https://software-download.microsoft.com/download/pr/MediaCreationTool1903.exe
 
@@ -39,6 +39,12 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 ### Official Media Creation Tool (direct link)
 
 * https://go.microsoft.com/fwlink/?LinkId=691209
+
+
+### Official CAB (direct link)
+
+* http://go.microsoft.com/fwlink/?LinkId=841361
+
 
 ### Unofficial Media Creation Tool Batch 
 
