@@ -31,7 +31,7 @@ https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-6044356961
 
 ### Latest official Windows 10 ESD (direct links + info)
 
-* Windows 10 1909 Final (Build 18363) [Updated Oct.v2 2019](https://gist.github.com/CHEF-KOCH/d8fac067aac466ce47cbdbcb6c0a7c10) & [ESD decrypter (wimlib)](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-52.7z)
+* Windows 10 2004 Final (Build 19041.264) [May 2004](https://gist.github.com/CHEF-KOCH/7ab8229825cf6912d1a6db3a0a4f39c1) & [ESD decrypter (wimlib)](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-53.7z)
 
 ### Official Media Creation Tool (direct link)
 
@@ -55,6 +55,9 @@ You will find the products.xml under `C:\$Windows.~WS\Sources`. The products.cab
 ### Archive MCT + products.cab
 
 ```
+2004:
+https://software-download.microsoft.com/download/pr/MediaCreationTool2004.exe
+
 1909:
 https://go.microsoft.com/fwlink/?LinkId=691209 (go.microsoft.com/MediaCreationTool1909.exe)
 http://download.microsoft.com/download/4/c/7/4c7a5beb-ca48-4fdd-a798-e48ccf022b79/products.cab
