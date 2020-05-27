@@ -1,11 +1,9 @@
 ## Microsoft Windows 10 Media Creation Tool Helper
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
-
 Inofficial batch helper to get and install latest Windows .esd/.iso. The project is original created under the GNU General Public License v3.0, 2017 - present by CHEF-KOCH.
 
 
-### HowTo
+### How-To
 * Rename file original `products_20xxxxx.cab to products.cab`.
 * Put file products.cab in the same folder where the file `MediaCreationTool.exe`
 * And run `MediaCreationTool.exe /selfhost` (or via PowerShell: `.\MediaCreationTool.exe /selfhost`)
