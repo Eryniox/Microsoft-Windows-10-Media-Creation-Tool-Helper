@@ -18,12 +18,13 @@ The batch-method (as shown in the screenshot) is now optional.
 ```bash
 //Latest Versions
 https://software-download.microsoft.com/download/pr/MediaCreationTool2004.exe
+https://download.microsoft.com/download/4/8/5/4858979e-a69f-4d0a-9278-4cbaab8d29bd/products.xml
 
 Mirror:
 https://download.microsoft.com/download/9/4/E/94E04254-741B-4316-B1DF-8CAEDF2DF16C/Windows10Upgrade9252.exe
 
 Cab:
-https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-60443569617C/products_20190314.cab
+https://download.microsoft.com/download/8/6/e/86e2d7b8-59b3-442b-8306-6697fc52b2bd/products_20200514.cab
 ```
 
 
