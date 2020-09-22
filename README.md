@@ -1,13 +1,9 @@
 ## Microsoft Windows 10 Media Creation Tool Helper
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
-[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
-
 Inofficial batch helper to get and install latest Windows .esd/.iso. The project is original created under the GNU General Public License v3.0, 2017 - present by CHEF-KOCH.
 
 
-### HowTo
+### How-To
 * Rename file original `products_20xxxxx.cab to products.cab`.
 * Put file products.cab in the same folder where the file `MediaCreationTool.exe`
 * And run `MediaCreationTool.exe /selfhost` (or via PowerShell: `.\MediaCreationTool.exe /selfhost`)
@@ -21,20 +17,20 @@ The batch-method (as shown in the screenshot) is now optional.
 
 ```bash
 //Latest Versions
-//Replace 1903 with the version your want (official versions which needs the batch file)
-https://software-download.microsoft.com/download/pr/MediaCreationTool1903.exe
+https://software-download.microsoft.com/download/pr/MediaCreationTool2004.exe
+https://download.microsoft.com/download/4/8/5/4858979e-a69f-4d0a-9278-4cbaab8d29bd/products.xml
 
 Mirror:
 https://download.microsoft.com/download/9/4/E/94E04254-741B-4316-B1DF-8CAEDF2DF16C/Windows10Upgrade9252.exe
 
 Cab:
-https://download.microsoft.com/download/8/E/8/8E852CBF-0BCC-454E-BDF5-60443569617C/products_20190314.cab
+https://download.microsoft.com/download/8/6/e/86e2d7b8-59b3-442b-8306-6697fc52b2bd/products_20200514.cab
 ```
 
 
 ### Latest official Windows 10 ESD (direct links + info)
 
-* Windows 10 1909 Final (Build 18363) [Updated Oct.v2 2019](https://gist.github.com/CHEF-KOCH/d8fac067aac466ce47cbdbcb6c0a7c10) & [ESD decrypter (wimlib)](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-52.7z)
+* Windows 10 2004 Final (Build 19041.264) [May 2004](https://gist.github.com/CHEF-KOCH/7ab8229825cf6912d1a6db3a0a4f39c1) & [ESD decrypter (wimlib)](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-53.7z)
 
 ### Official Media Creation Tool (direct link)
 
@@ -58,6 +54,9 @@ You will find the products.xml under `C:\$Windows.~WS\Sources`. The products.cab
 ### Archive MCT + products.cab
 
 ```
+2004:
+https://software-download.microsoft.com/download/pr/MediaCreationTool2004.exe
+
 1909:
 https://go.microsoft.com/fwlink/?LinkId=691209 (go.microsoft.com/MediaCreationTool1909.exe)
 http://download.microsoft.com/download/4/c/7/4c7a5beb-ca48-4fdd-a798-e48ccf022b79/products.cab
